@@ -4,7 +4,7 @@ Packages/manifest.json を開くメニューを追加するエディタ拡張
 
 ## 使用例
 
-![2020-07-10_223517](https://user-images.githubusercontent.com/6134875/87160345-ca041100-c2fd-11ea-94a7-744349ed6715.png)
+![2020-09-06_200538](https://user-images.githubusercontent.com/6134875/92324416-620f4400-f07c-11ea-8465-de09529f416f.png)
 
-Unity メニューの「Edit > Open Package manifest.json」を選択すると  
-「Packages/manifest.json」を開くことができます  
+Unity メニューの「Edit > UniPackageManifestJsonOpener」から  
+「Packages/manifest.json」や「Packages/packages-lock.json」を開くことができます  
